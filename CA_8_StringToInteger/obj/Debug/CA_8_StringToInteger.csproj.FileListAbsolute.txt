@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\bin\Debug\CA_8_StringToInteger.exe.config
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\bin\Debug\CA_8_StringToInteger.exe
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\bin\Debug\CA_8_StringToInteger.pdb
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\obj\Debug\CA_8_StringToInteger.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\obj\Debug\CA_8_StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\obj\Debug\CA_8_StringToInteger.exe
+C:\Users\Chuan\Project\CA_8_StringToInteger\CA_8_StringToInteger\obj\Debug\CA_8_StringToInteger.pdb
